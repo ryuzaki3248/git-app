@@ -70,7 +70,10 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+<<<<<<< HEAD
 gem 'tzinfo-date',platforms: [:mingw,
   
 gem'pry-rails'
 gem'devise'
+=======
+>>>>>>> parent of 26b16dc (コンフリクトB)
